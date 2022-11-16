@@ -1,4 +1,4 @@
-API Stack
+API tools
   Golang
     Gin (The best lightweight API) 
   Python
@@ -7,26 +7,26 @@ API Stack
   Java
     Spring Boot (The best speed API [Cost of Memory are more in use compare with each others]) 
     
-Database Stack
+Database tools
     SQL and NoSQL
       Postgres 
       SQL server (haven't tested)
       MongoDB 
       Redis (Server site cache)
       
-Front-End Stack
+Front-End tools
   React JS (Component Design)
   HTML CSS Javascript (A/B test)
   Node JS
   
-Video Streaming Stack
+Video Streaming tools
   Express JS (Streaming Server)
 
-Cloud Stack
+Cloud 
     Linode (Lowest Price)
     Digital Ocean (haven't tested)
 
-CI/CD
+CI/CD tools
     Git 
       source control
     Jenkins (haven't tested)
